@@ -1,0 +1,65 @@
+20240303	18:48:55	25ea9fa8-3019-47f9-aafe-89e560d7d2d2	TypeError : fs.promises.readFil is not a function 
+20240316	21:22:05	ee848535-83b7-4291-9d61-84d418619681	TypeError:res.accepts is not a function
+20240316	21:24:01	fc086d44-f810-460f-be42-9532daf3d044	TypeError:res.accepts is not a function
+20240316	21:26:19	83798e37-533e-4093-983f-a8b432db357f	TypeError:res.accepts is not a function
+20240316	21:26:21	a0b7239b-f604-46e8-9cfe-270f0fe61e8d	TypeError:res.accepts is not a function
+20240316	21:26:22	4a685c90-8e0e-4478-87a9-1d2bfc832617	TypeError:res.accepts is not a function
+20240316	21:26:22	7dbaeec5-a8ea-450c-a353-bc02ad0ab625	TypeError:res.accepts is not a function
+20240316	21:26:23	1cdb274b-f33b-470a-af67-99023d38ce5f	TypeError:res.accepts is not a function
+20240316	21:26:27	ca5c4277-facd-4b81-a231-8a45c18315e0	TypeError:res.accepts is not a function
+20240316	21:27:06	2847a08b-ea77-45ff-abea-a6583861141e	TypeError:res.accepts is not a function
+20240316	21:27:07	96fa43fd-9f53-43bb-84c5-a8d24c163274	TypeError:res.accepts is not a function
+20240316	21:27:08	bbd7de7a-50c2-4d2f-94bb-4afbedc312cc	TypeError:res.accepts is not a function
+20240316	21:27:08	48447feb-8ea4-4555-af59-528a9a045b5b	TypeError:res.accepts is not a function
+20240316	21:27:09	b0f88a08-a203-460c-a2d7-10a22e67d0ea	TypeError:res.accepts is not a function
+20240316	21:27:35	af99758d-547a-4dc4-8014-6183b659957a	TypeError:res.accepts is not a function
+20240316	21:27:42	a24185f2-c7fc-4f27-b89e-cb0228039aab	TypeError:res.accepts is not a function
+20240316	21:28:05	e6adcc3a-acfd-414e-ab20-cc4ca56d39d9	TypeError:res.accepts is not a function
+20240316	21:29:16	a206a597-200b-4a02-8aa2-f7a49ef8a232	TypeError:res.accepts is not a function
+20240316	21:29:20	7d8de554-6b8a-4753-924c-ecb87a991312	TypeError:res.accepts is not a function
+20240316	21:30:38	c7470721-b8cf-4908-8df9-156cff514984	TypeError:res.accepts is not a function
+20240316	21:35:58	0c16f5f8-aad9-4dfa-a302-8a2effb0d063	Error:ENOENT: no such file or directory, stat 'D:\angular\testing js\routers\views\index.html'
+20240316	21:36:41	ba814698-75ae-4599-89ff-4a17ded8f3b1	Error:ENOENT: no such file or directory, stat 'D:\angular\testing js\routers\views\index.html'
+20240316	21:38:07	82f42b77-c24f-4179-a45f-da9304dad35e	TypeError:res.accepts is not a function
+20240317	22:15:03	a42ffea6-9e3e-449c-b590-d822404e577b	SyntaxError:Unexpected token u in JSON at position 1
+20240318	01:33:37	5d01bb4d-10bd-4c3e-9c1c-79ee6728f317	ReferenceError:next is not defined
+20240323	18:18:23	6361fa22-3d10-4fdb-851c-f19af49d120f	TypeError:authHeader?.startWith is not a function
+20240323	18:21:27	5c19d4e2-efee-4fc0-8fcb-ea3be5beb187	TypeError:authHeader?.startWith is not a function
+20240323	18:24:53	9958b35f-25e5-479b-b00a-38588f8384a9	TypeError:authHeader?.startWith is not a function
+20240323	18:29:29	9e766f2b-fee9-4e3a-b453-e32b75743a9b	TypeError:Cannot read properties of undefined (reading 'username')
+20240323	18:55:10	507c958e-b56b-4d8c-a683-75f8c3e97228	Error:Cannot set headers after they are sent to the client
+20240323	18:59:54	db82e048-9bbd-4cc5-be56-b59035009059	Error:Cannot set headers after they are sent to the client
+20240323	19:54:53	b4cbd484-1525-46c0-84eb-a5779612ca43	Error:Cannot set headers after they are sent to the client
+20240323	19:57:46	ab79256c-e2ff-48d7-98ae-ab3d069f53a3	Error:Cannot set headers after they are sent to the client
+20240323	20:04:27	b70fd193-fdd8-46e1-b855-77b3894c8041	Error:Cannot set headers after they are sent to the client
+20240323	20:04:55	018102e4-38af-4bb3-86f2-5aa1e416e30b	Error:Cannot set headers after they are sent to the client
+20240323	20:05:06	da545b6a-a688-4799-a41e-ab307093a9bf	Error:Cannot set headers after they are sent to the client
+20240323	20:05:33	b7c21b16-5eab-4fc9-b642-7ab6631b8807	Error:Cannot set headers after they are sent to the client
+20240323	20:05:35	1ad5429f-905c-40bf-b58a-5cbb60ebccbb	Error:Cannot set headers after they are sent to the client
+20240323	20:05:39	b34efb46-cafb-440d-b7d9-ffc21dbcd2a9	Error:Cannot set headers after they are sent to the client
+20240323	20:06:19	ae1d1223-6d60-4a06-8737-95c91d7b7f0f	Error:Cannot set headers after they are sent to the client
+20240323	20:11:30	b0a282b3-e4a9-42a7-9f13-2e39e4e45b65	ReferenceError:path is not defined
+20240323	20:13:38	d8fc6b0b-f885-455e-a2f3-86d6cd98a8da	ReferenceError:path is not defined
+20240323	20:14:26	7db7b601-0e58-45d4-b6c0-027d2e9dbf6d	ReferenceError:path is not defined
+20240323	20:14:27	2af3037e-8832-4d6f-a890-c580acb713e6	ReferenceError:path is not defined
+20240323	20:14:54	dc9777aa-6c99-4924-8a18-86952c984ba2	ReferenceError:path is not defined
+20240323	20:14:55	216877db-8c0e-45c0-8722-48a915907433	ReferenceError:path is not defined
+20240323	20:15:21	2a63806b-5a6e-483d-b101-60f63b3b0719	ReferenceError:path is not defined
+20240323	20:15:25	7e50cad2-1c5a-44ef-ba5c-dc6871639a95	ReferenceError:path is not defined
+20240323	20:15:39	a32176a5-4507-48b4-985e-e6024201214e	ReferenceError:path is not defined
+20240323	20:17:04	b645876c-5266-4b93-a162-fb842fe555bf	ReferenceError:path is not defined
+20240323	20:17:07	8de8528c-04b8-41d2-bd59-056a0109c4b7	ReferenceError:path is not defined
+20240323	20:17:25	76ed3c53-0a99-4431-a782-388999eab497	ReferenceError:path is not defined
+20240323	20:17:26	8d7f502f-ea99-4652-8513-cf55d1a97979	ReferenceError:path is not defined
+20240323	20:17:52	68cba7a2-ca4d-4eb8-ba62-7107baf1837e	ReferenceError:path is not defined
+20240323	20:18:44	854d15f1-7fcc-43ea-8359-13417053abe7	ReferenceError:path is not defined
+20240323	20:20:00	581a6db1-178f-492e-9174-515cb3e75ee6	ReferenceError:path is not defined
+20240323	20:20:06	1b08f569-18fd-446f-bf2a-74a2342bf267	ReferenceError:path is not defined
+20240323	20:20:12	0bb39900-c282-4aa5-b2fe-4902c0e3c038	ReferenceError:path is not defined
+20240323	20:20:13	dcea9070-ee6a-4a69-9978-f7d4a961063d	ReferenceError:path is not defined
+20240323	20:20:14	51dd7d14-3910-45b8-bbeb-8cc2c53cd80e	ReferenceError:path is not defined
+20240323	20:21:52	cb2a4213-3a6c-4971-99ca-2bdd4e603734	ReferenceError:path is not defined
+20240323	20:23:00	f63257e0-76ce-411b-9da2-4c11d1d8025c	Error:Cannot set headers after they are sent to the client
+20240323	20:25:05	38a114b4-52d5-4bde-8398-6a5c1d1a4cda	Error:Cannot set headers after they are sent to the client
+20240323	20:25:11	679aed9d-406f-47b7-b3d8-43e181434910	Error:Cannot set headers after they are sent to the client
+20240323	20:27:42	1e9819cd-ffe2-43de-b663-dffdd0a79c0e	TypeError:res.senStatus is not a function

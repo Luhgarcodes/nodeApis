@@ -1,0 +1,38 @@
+[
+    {
+        "username": "bijoy4",
+        "roles": {
+            "Admin": 5150,
+            "Editor": 1984,
+            "User": 2001
+        },
+        "password": "$2b$10$VqO8kreOk.7jsMOnCVmGpOhxeM2VtpFzMwcRLnCOOfL9Nce9I3lsU6"
+    },
+    {
+        "username": "gopi",
+        "roles": {
+            "Admin": 5150,
+            "Editor": 1984
+        },
+        "password": "$2b$10$.y4t9RBeJQuRBobnEQVpieU9/tMhKq6Vs46n2ikwJdGnX6FWn8n0S",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImdvcGkiLCJpYXQiOjE3MTEyMDA3MDgsImV4cCI6MTcxMTIwMDczOH0.XqwTzuk-vIGBA3og_ruVQYtb3fa1y-JqQEIHaIGbJiw"
+    },
+    {
+        "username": "bijoy",
+        "roles": {
+            "User": 2001
+        },
+        "password": "$2b$10$4RdxBZj9ZpPHxDSrheOHvu6NCcmMcvVehktQaCZQcw1zbsR3He1iG",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImJpam95IiwiaWF0IjoxNzExMjAwNzMzLCJleHAiOjE3MTEyMDA3NjN9.05FuWpNFgR6hNkaCp1Xq-EdKlBQF4PN1_XZjv4qiQ_k"
+    },
+    {
+        "username": "vijay",
+        "roles": {
+            "User": 2001,
+            "Admin": 5150,
+            "Editor": 1984
+        },
+        "password": "$2b$10$qUpW94TpdC0yqA/hOzvp6eh1ABY.9pod0HsP8AAuQE9Jrd2439Zsm",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InZpamF5IiwiaWF0IjoxNzExMjA1NTQ4LCJleHAiOjE3MTEyMDY1NDh9.reGBvkBVwRDRRS0lHuxo1ruTppgULf0Jrs5thr4b9H8"
+    }
+]
